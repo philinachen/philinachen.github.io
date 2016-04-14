@@ -91,7 +91,7 @@ else
   // FadeTo elements
   if ( vw > 1023) {  
 
-    var tiles = $(".read-more, .portfolio-subtitle, .grid li, .contact .content .form, .contact .content .contact-text, .video-container").fadeTo(0, 0);
+    var tiles = $(".read-more, .portfolio-subtitle, .grid li, .contact .content .form, .contact .content .contact-text").fadeTo(0, 0);
 
     $(window).scroll(function(a,b) {
       tiles.each(function() {
