@@ -1778,6 +1778,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/chinese-papercut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 950021,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/diamond-award-trophy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2126,6 +2137,17 @@
 		"initialSize": 60293,
 		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/carpool-app.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/carpool-app.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/thumb\/chinese-papercut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57097,
+		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/chinese-papercut.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/chinese-papercut.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
