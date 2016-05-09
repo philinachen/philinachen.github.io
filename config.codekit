@@ -2174,6 +2174,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/thumb\/make-your-mark.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47978,
+		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/make-your-mark.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/make-your-mark.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/thumb\/melody-freedom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
