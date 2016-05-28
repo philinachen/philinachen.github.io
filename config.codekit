@@ -1976,6 +1976,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/make-your-mark-cover-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25000,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-cover-back.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-cover-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-cover.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24553,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-cover.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-cover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-detail-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55614,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-detail-2.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-detail-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-detail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56767,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-detail.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-detail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33528,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-logo.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-1-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31612,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-1-2.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-1-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-11-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-11-12.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-11-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-13-14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-13-14.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-13-14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-3-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39225,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-3-4.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-3-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-5-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-5-6.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-5-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-7-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-7-8.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-7-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/make-your-mark-page-9-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-9-10.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/make-your-mark-page-9-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/melody-freedom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
