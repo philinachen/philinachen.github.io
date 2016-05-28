@@ -1690,6 +1690,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/board-training-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291179,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/board-training-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/board-training-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/board-training-hard-copy-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2251,6 +2262,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/portfolio-cover-pr.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71762,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/portfolio-cover-pr.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/portfolio-cover-pr.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/portfolio-cover.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2258,6 +2280,17 @@
 		"initialSize": 337329,
 		"inputAbbreviatedPath": "\/img\/portfolio\/full\/portfolio-cover.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/full\/portfolio-cover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/spring-golf-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133861,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/spring-golf-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/spring-golf-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
