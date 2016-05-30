@@ -2130,6 +2130,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/minimalism_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52731,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/minimalism_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52447,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/minimalism_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46827,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/minimalism_full.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32539,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_full.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/minimalism_full.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/notepad-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2522,6 +2566,17 @@
 		"initialSize": 68435,
 		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/melody-freedom.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/melody-freedom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/thumb\/minimalism.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53325,
+		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/minimalism.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/minimalism.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
