@@ -79,10 +79,11 @@ $('a.mobile-dropdown').mouseenter(function(){
   });  
   
 
-if( !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
     
-    //$(".footer").css( "position", "relative" );
-    //$(".contact").css( "marginBottom", "0" );
+    $(".footer").css( "position", "relative" );
+    $(".contact").css( "marginBottom", "0" );
+    $(".mountain-group").css("display", "none");
 
 }
 else 
