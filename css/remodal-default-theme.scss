@@ -188,7 +188,8 @@
   overflow: visible;
 
   min-width: 110px;
-  margin: 0;
+  margin:
+   0;
   padding: 12px 0;
 
   cursor: pointer;
@@ -351,3 +352,10 @@
 .lt-ie9 .remodal {
   width: 700px;
 }
+
+/* Custom
+   ========================================================================== */
+   .jakaa-button {
+      min-width: 100%;
+      padding: 10px 0;
+   }
