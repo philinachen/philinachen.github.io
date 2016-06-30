@@ -83,6 +83,7 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     
     $(".footer").css( "position", "relative" );
     $(".contact").css( "marginBottom", "0" );
+    $('#loader-wrapper').css("display", "none");
 
 }
 else 
