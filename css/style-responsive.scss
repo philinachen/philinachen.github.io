@@ -7,6 +7,12 @@
 --
 */
 
+/* mobile */
+@media (max-width: 579px){
+ svg#mountain-group {
+    display: none;
+ }  
+}
 
 /* iPad (portrait) */
 @media (min-width: 320px) and (max-width: 579px) {
