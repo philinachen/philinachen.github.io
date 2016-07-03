@@ -1844,13 +1844,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/portfolio\/full\/chinese-papercut.jpg": {
+	"\/img\/portfolio\/full\/chinese-papercut-full.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 950021,
-		"inputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut.jpg",
+		"initialSize": 743261,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut-full.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/chinese-papercut-full.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
