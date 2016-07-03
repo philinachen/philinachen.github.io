@@ -279,6 +279,14 @@
 
 /* Custom
    ========================================================================== */
-.jakaa-button {
+.modal-button {
   min-width: 100%;
   padding: 10px 0; }
+
+a.remodal-cancel.modal-button {
+  background: none;
+  color: #6dcff6;
+  border: 1px solid #6dcff6; }
+  a.remodal-cancel.modal-button:hover {
+    background: #6dcff6;
+    color: #fff; }
