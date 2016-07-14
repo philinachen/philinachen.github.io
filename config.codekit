@@ -1635,28 +1635,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/portfolio\/full\/adventure-01.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 369001,
-		"inputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-01.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-01.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/portfolio\/full\/adventure-02.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 326710,
-		"inputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-02.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-02.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/portfolio\/full\/adventure-display.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
