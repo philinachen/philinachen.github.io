@@ -1635,6 +1635,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/adventure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/adventure.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/adventure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/amp-up-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2467,6 +2478,17 @@
 		"initialSize": 110851,
 		"inputAbbreviatedPath": "\/img\/portfolio\/full\/street-performer.jpg",
 		"outputAbbreviatedPath": "\/img\/portfolio\/full\/street-performer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/thumb\/adventure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25168,
+		"inputAbbreviatedPath": "\/img\/portfolio\/thumb\/adventure.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/thumb\/adventure.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
