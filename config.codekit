@@ -1646,6 +1646,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/adventure-presentation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 369001,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-presentation.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-presentation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/adventure-presentation2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 326461,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-presentation2.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/adventure-presentation2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/amp-up-02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
