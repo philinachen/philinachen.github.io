@@ -1668,6 +1668,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/portfolio\/full\/alaska-infographic-sketch-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83632,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/alaska-infographic-sketch-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73565,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/full\/alaska-infographic-sketch-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88717,
+		"inputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/full\/alaska-infographic-sketch-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/portfolio\/full\/alaska-infographic.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
